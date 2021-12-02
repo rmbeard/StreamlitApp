@@ -1,2 +1,2 @@
 # StreamlitApp
-demo streamlit app: experimenin with development
+demo streamlit app: experimenting with development
